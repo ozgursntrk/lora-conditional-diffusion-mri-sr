@@ -1,3 +1,5 @@
+Part of a two-repository study. The prior training, the k-space operator, and the DDRM baseline live in https://github.com/ozgursntrk/ddpm-ddrm-fmri-superres
+
 # LoRA-Conditioned Diffusion Super-Resolution for fMRI-EPI
 
 Turning an **unconditional** brain-MRI diffusion prior into a **conditional super-resolution**
